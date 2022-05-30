@@ -21,6 +21,12 @@ To run this script through terminal, navigate to the folder outside the 'src' fo
 
 python3 src/cds_lang_ass2.py EDGELIST
 
-Example:
+### Example:
 To run the script on edgelist 1H4.csv, navigate to the folder outside the 'src' folder and run:
 python3 src/cds_lang_ass2.py 'in/1H4.csv'
+
+## Results
+
+- cent_meas.csv
+- a folder called viz with _network.png in it
+
