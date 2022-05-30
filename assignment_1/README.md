@@ -2,6 +2,7 @@
 # Assignment 1 - Collocation Tool
 
 Cecilie Stilling Pedersen
+CDS_LANGUAGE_ANALYTICS
 
 Link to repository: https://github.com/ceciliestilling/CDS_LANG/tree/main/assignment_1
 
