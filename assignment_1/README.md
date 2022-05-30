@@ -35,7 +35,7 @@ Link to the data can be found here: https://github.com/computationalstylistics/1
 
 
 To run this script in the terminal, navigate to the folder outside the 'src' folder and run:
-python3 src/assignment1.py FILEPATH KEYWORD WINDOWSIZE
+python3 src/cds_lang_ass1.py FILEPATH KEYWORD WINDOWSIZE
  
 ### EXAMPLE:
 To run the script on the text Haggard_Mines_1885.txt with the keyword boy and the window size 3, navigate to the folder outside the 'src' folder and run:
