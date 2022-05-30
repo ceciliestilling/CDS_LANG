@@ -19,4 +19,26 @@ The second script should perform classification using the kind of deep learning 
 ## Usage
 The data 'VideoCommentsThreatCorpus.csv' should be available to the examiner through our professor Ross, but can otherwise be found through this article: https://www.simula.no/sites/default/files/publications/files/cbmi2019_youtube_threat_corpus.pdf
 
-#To 
+The 'in' folder scructure should be: "in/VideoCommentsThreatCorpus.csv".
+
+### Run script 1
+To run this script through terminal, navigate to the folder outside the 'src' folder and run:
+
+python3 src/cds_lang_ass4_pt1.py
+
+### Run script 2
+
+To run this script through terminal, navigate to the folder outside the 'src' folder and run:
+
+python3 src/cds_lang_ass4_pt2.py
+
+## Results
+
+To find the output, navigate to the out folder. It should contain the following:
+- cl_report_pt1.txt
+- cl_report_pt2.txt
+
+
+
+
+
