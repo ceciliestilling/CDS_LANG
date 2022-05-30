@@ -40,3 +40,6 @@ python3 src/cds_lang_ass1.py FILEPATH KEYWORD WINDOWSIZE
 ### EXAMPLE:
 To run the script on the text Haggard_Mines_1885.txt with the keyword boy and the window size 3, navigate to the folder outside the 'src' folder and run:
   python3 src/cds_lang_ass1.py 'in/Haggard_Mines_1885.txt' boy 3
+
+## Results
+The output of this script is csv file containing a dataframe of the Mutual Information scores for collocate
