@@ -15,7 +15,7 @@ Link to repository: https://github.com/ceciliestilling/CDS_LANG/tree/main/assign
 * Save the results as a CSV file with (at least) the following columns: the collocate term; how often it appears as a collocate; how often it appears in the text; the mutual information score.
 
 ## Methods
-perform collocational analysis using simple string processing and NLP tools. The strength of the association between collocates is calculated using the formula described below.
+Collocational analysis using simple string processing and NLP tools. The strength of the association between collocates is calculated using the formula described below.
 
 ### MI-score calculation formula:
 
