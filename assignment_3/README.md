@@ -26,7 +26,7 @@ To run the script on edgelist 1H4.csv, navigate to the folder outside the 'src' 
 python3 src/cds_lang_ass2.py 'in/1H4.csv'
 
 ## Results
-
+To find the output, navigate to the out folder. It should contain the following:
 - cent_meas.csv
 - a folder called viz with _network.png in it
 
