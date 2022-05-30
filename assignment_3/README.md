@@ -19,7 +19,7 @@ The 'in' folder scructure should be: "in/network_data.csv".
 
 To run this script through terminal, navigate to the folder outside the 'src' folder and run:
 
-python3 src/cds_lang_ass2.py EDGELIST
+python3 src/cds_lang_ass2.py 'in/EDGELIST.csv'
 
 ### Example:
 To run the script on edgelist 1H4.csv, navigate to the folder outside the 'src' folder and run:
